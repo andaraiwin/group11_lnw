@@ -2,7 +2,7 @@
 P, พี, Perapol, พีระพล<br />
 Pan, แพน, Pichayoot, พิชยุทธ<br />
 guitar, กีต้า, กีตาร์, ชาญณรงค์<br />
-
+Anda, อันดา, Raiwin, ไรวินท์
 
 
 # This repo is used for Roger's class
