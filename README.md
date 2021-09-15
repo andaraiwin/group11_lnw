@@ -1,6 +1,7 @@
 # Assignment 1
 P, พี, Perapol, พีระพล
 Pan, แพน, Pichayoot, พิชยุทธ
+guitar, กีต้า, กีตาร์, ชาญณรงค์
 
 
 
